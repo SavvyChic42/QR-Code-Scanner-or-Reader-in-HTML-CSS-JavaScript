@@ -1,0 +1,29 @@
+<h1>Dinithi Nethmini - Software Engineer</h1>
+  <p>
+    Over 1 years of experience in software development, specializing in designing and implementing scalable, distributed systems. Proficient in multiple programming languages including Java, Python, and C++, with a strong focus on object-oriented design and design patterns. Extensive experience with web technologies, including HTML, CSS, JavaScript, and various web frameworks such as React and Angular. Strong background in database systems, both SQL and NoSQL, with expertise in designing and optimizing database schemas and queries. Skilled in software testing methodologies, including unit testing, integration testing, and end-to-end testing, using frameworks such as JUnit, Mockito, and Selenium. Proven track record of collaborating in cross-functional teams, delivering high-quality software within tight deadlines, and adapting to changing requirements. Passionate about staying up-to-date with emerging technologies, programming languages, and software development best practices.
+  </p>
+  <h2>Education</h2>
+  <ul>
+    <li>Bachelor's degree, Software Engineering (Honours), City University Malaysia</li>
+    <li>Higher National Diploma, Information and Communications Technology, Aquinas College of Higher Studies</li>
+    <li>Certification, Cyber Security, Lincoln University College</li>
+  </ul>
+  <h2>Work Experience</h2>
+  <ul>
+    <li>
+      <strong>Project Monitoring &amp; After Sale-Monitoring Executive</strong><br>
+      E Gravity Solutions (Pvt) Ltd. · Full-time<br>
+      Feb 2023 - Present · 1 yr 3 mos
+    </li>
+    <li>
+      <strong>Former Junior Executive (J.E)</strong><br>
+      Fluid Work Private Limited · Full-time<br>
+      Oct 2022 - Present · 1 yr 7 mos
+    </li>
+  </ul>
+  <h2>Contact</h2>
+  <ul>
+    <li><a href="https://github.com/SavvyChic42" target="_blank">GitHub</a></li>
+    <li><a href="https://medium.com/@dinithinethmini01" target="_blank">Medium</a></li>
+    <li><a href="https://www.linkedin.com/in/dinithi-nethmini-aaa4a224b/" target="_blank">LinkedIn</a></li>
+  </ul>
